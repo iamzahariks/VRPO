@@ -1,0 +1,28 @@
+﻿Сборка начата 01.10.2024 18:07:16.
+Уровень детализации журнала: Normal.     1>Проект "P:\CodeProjects\BSTU\labs\VRPO\lab1\HelloWorld\HelloWorld\HelloWorld.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Release\HelloWorld.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Release\\" /Fd"x64\Release\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt HelloWorld.cpp
+         HelloWorld.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"P:\CodeProjects\BSTU\labs\VRPO\lab1\HelloWorld\x64\Release\HelloWorld.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"P:\CodeProjects\BSTU\labs\VRPO\lab1\HelloWorld\x64\Release\HelloWorld.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"x64\Release\HelloWorld.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"P:\CodeProjects\BSTU\labs\VRPO\lab1\HelloWorld\x64\Release\HelloWorld.lib" /MACHINE:X64 x64\Release\HelloWorld.obj
+         Создание кода
+         Previous IPDB was built with incompatible compiler, fall back to full compilation.
+         All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         HelloWorld.vcxproj -> P:\CodeProjects\BSTU\labs\VRPO\lab1\HelloWorld\x64\Release\HelloWorld.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: P:\CodeProjects\BSTU\labs\RPO (developing programs)\HelloWorld\HelloWorld\HelloWorld.cpp.
+       FinalizeBuildStatus:
+         Файл "x64\Release\HelloWorld.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Release\HelloWorld.tlog\HelloWorld.lastbuildstate".
+     1>Сборка проекта "P:\CodeProjects\BSTU\labs\VRPO\lab1\HelloWorld\HelloWorld\HelloWorld.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.52

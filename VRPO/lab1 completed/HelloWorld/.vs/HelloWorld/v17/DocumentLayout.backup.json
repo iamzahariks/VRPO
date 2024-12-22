@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\CodeProjects\\BSTU\\labs\\VRPO\\lab1\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A6D713-B5AC-4AE5-8E01-2D1C96D9F3C5}|Lab_02\\Lab_02.vcxproj|P:\\CodeProjects\\BSTU\\labs\\VRPO\\lab1\\HelloWorld\\Lab_02\\lab02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0A6D713-B5AC-4AE5-8E01-2D1C96D9F3C5}|Lab_02\\Lab_02.vcxproj|solutionrelative:Lab_02\\lab02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988A268-1DEF-4087-858D-67DCE725D34F}|HelloWorld\\HelloWorld.vcxproj|P:\\CodeProjects\\BSTU\\labs\\VRPO\\lab1\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0988A268-1DEF-4087-858D-67DCE725D34F}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "P:\\CodeProjects\\BSTU\\labs\\VRPO\\lab1\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "P:\\CodeProjects\\BSTU\\labs\\VRPO\\lab1\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T14:58:56.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab02.cpp",
+              "DocumentMoniker": "P:\\CodeProjects\\BSTU\\labs\\VRPO\\lab1\\HelloWorld\\Lab_02\\lab02.cpp",
+              "RelativeDocumentMoniker": "Lab_02\\lab02.cpp",
+              "ToolTip": "P:\\CodeProjects\\BSTU\\labs\\VRPO\\lab1\\HelloWorld\\Lab_02\\lab02.cpp",
+              "RelativeToolTip": "Lab_02\\lab02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T10:34:06.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
